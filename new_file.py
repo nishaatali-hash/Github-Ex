@@ -1,1 +1,2 @@
-print("I am goo")
+print("I am good")
+print("My name is Nishaat")
