@@ -4,3 +4,5 @@ print("Hello")
 password = "5"
 a = 10
 print(a + password)
+
+print("How are you")
