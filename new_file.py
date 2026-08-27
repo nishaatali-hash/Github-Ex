@@ -2,6 +2,6 @@ def hello():
 
 
     """ this is demo"""
-    return  "Hello"
+    return "Hello"
 
 hello()
