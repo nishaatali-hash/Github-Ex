@@ -1,4 +1,4 @@
-def  Docs():
+def Docs():
     """
     How are you!
     """
