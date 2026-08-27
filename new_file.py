@@ -1,5 +1,7 @@
-print("I am good")
-print("My name is Nishaat")
-print("Hello")
+def hello():
+    """
+    this is demo
+    """
+    return "Hello"
 
-print("How are")
+hello()

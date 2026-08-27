@@ -1,3 +1,3 @@
 print("Hello")
-Name = "Ali"
-print(Name)
+name = "Ali"
+print(name)
