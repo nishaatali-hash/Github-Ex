@@ -2,6 +2,7 @@
 This module demonstrates the use of a function and a module-level constant.
 """
 
+
 def docs():
     """
     How are you!
