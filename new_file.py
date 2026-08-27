@@ -1,7 +1,5 @@
 def hello():
-    """
-    this is demo
-    """
+    """ this is demo"""
     return "Hello"
 
 hello()
